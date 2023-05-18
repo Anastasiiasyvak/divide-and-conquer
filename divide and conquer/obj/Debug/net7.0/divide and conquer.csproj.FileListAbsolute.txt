@@ -1,0 +1,15 @@
+/home/nastia/for_new_projects/divide and conquer/divide and conquer/bin/Debug/net7.0/divide and conquer
+/home/nastia/for_new_projects/divide and conquer/divide and conquer/bin/Debug/net7.0/divide and conquer.deps.json
+/home/nastia/for_new_projects/divide and conquer/divide and conquer/bin/Debug/net7.0/divide and conquer.runtimeconfig.json
+/home/nastia/for_new_projects/divide and conquer/divide and conquer/bin/Debug/net7.0/divide and conquer.dll
+/home/nastia/for_new_projects/divide and conquer/divide and conquer/bin/Debug/net7.0/divide and conquer.pdb
+/home/nastia/for_new_projects/divide and conquer/divide and conquer/obj/Debug/net7.0/divide and conquer.csproj.AssemblyReference.cache
+/home/nastia/for_new_projects/divide and conquer/divide and conquer/obj/Debug/net7.0/divide and conquer.GeneratedMSBuildEditorConfig.editorconfig
+/home/nastia/for_new_projects/divide and conquer/divide and conquer/obj/Debug/net7.0/divide and conquer.AssemblyInfoInputs.cache
+/home/nastia/for_new_projects/divide and conquer/divide and conquer/obj/Debug/net7.0/divide and conquer.AssemblyInfo.cs
+/home/nastia/for_new_projects/divide and conquer/divide and conquer/obj/Debug/net7.0/divide and conquer.csproj.CoreCompileInputs.cache
+/home/nastia/for_new_projects/divide and conquer/divide and conquer/obj/Debug/net7.0/divide and conquer.dll
+/home/nastia/for_new_projects/divide and conquer/divide and conquer/obj/Debug/net7.0/refint/divide and conquer.dll
+/home/nastia/for_new_projects/divide and conquer/divide and conquer/obj/Debug/net7.0/divide and conquer.pdb
+/home/nastia/for_new_projects/divide and conquer/divide and conquer/obj/Debug/net7.0/divide and conquer.genruntimeconfig.cache
+/home/nastia/for_new_projects/divide and conquer/divide and conquer/obj/Debug/net7.0/ref/divide and conquer.dll
