@@ -35,7 +35,7 @@
 //     static int Position(int[] array, int left, int right)
 //     {
 //         int separator = array[right];
-//         int i = -1;
+//         int i = left - 1;
 //
 //         for (int j = left; j < right; j++)
 //         {
